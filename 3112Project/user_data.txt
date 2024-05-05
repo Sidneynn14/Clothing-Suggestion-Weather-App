@@ -1,0 +1,3 @@
+admin,admin,Charlotte,true
+Sidney,123,Charlotte,false
+NewUser,12345,,false

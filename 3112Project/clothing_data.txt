@@ -1,0 +1,8 @@
+T-shirt,top
+Pants,bottom
+Skirt,bottom
+Shorts,bottom
+Long Sleeve Shirt,top
+Sweater,top
+Sneakers,shoes
+Sandals,shoes
